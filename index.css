@@ -1,5 +1,6 @@
 body {
-
+    font-family: 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans', 'sans-serif';
+    background-image: url("table.jpeg")
 }
 
 h1{
@@ -7,5 +8,5 @@ h1{
 }
 
 #message-el {
-    
+
 }
